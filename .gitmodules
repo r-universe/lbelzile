@@ -8,6 +8,11 @@
 	url = https://github.com/lbelzile/lcopula
 	shallow = true
 	registered = true
+[submodule "mev"]
+	path = mev
+	url = https://github.com/lbelzile/mev
+	shallow = true
+	registered = true
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/lbelzile/truncatednormal

@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "mev",
+    "oncran": true
+  },
+  {
     "package": "TruncatedNormal",
     "oncran": true
   }
