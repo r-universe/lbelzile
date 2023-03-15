@@ -1,5 +1,9 @@
 [
   {
+    "package": "BMAmevt",
+    "oncran": true
+  },
+  {
     "package": "lcopula",
     "oncran": true
   },

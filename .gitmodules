@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BMAmevt"]
+	path = BMAmevt
+	url = https://github.com/lbelzile/bmamevt
+	shallow = true
+	registered = true
 [submodule "lcopula"]
 	path = lcopula
 	url = https://github.com/lbelzile/lcopula
