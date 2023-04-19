@@ -8,6 +8,11 @@
 	url = https://github.com/lbelzile/bmamevt
 	shallow = true
 	registered = true
+[submodule "hkevp"]
+	path = hkevp
+	url = https://github.com/lbelzile/hkevp
+	shallow = true
+	registered = true
 [submodule "lcopula"]
 	path = lcopula
 	url = https://github.com/lbelzile/lcopula
