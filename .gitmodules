@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BMAmevt"]
 	path = BMAmevt
 	url = https://github.com/lbelzile/bmamevt
-	shallow = true
-	registered = true
 [submodule "evt0"]
 	path = evt0
 	url = https://github.com/lbelzile/evt0
-	shallow = true
-	registered = true
 [submodule "hkevp"]
 	path = hkevp
 	url = https://github.com/lbelzile/hkevp
-	shallow = true
-	registered = true
 [submodule "jointPm"]
 	path = jointPm
 	url = https://github.com/lbelzile/jointpm
-	shallow = true
-	registered = true
 [submodule "lcopula"]
 	path = lcopula
 	url = https://github.com/lbelzile/lcopula
-	shallow = true
-	registered = true
 [submodule "mev"]
 	path = mev
 	url = https://github.com/lbelzile/mev
-	shallow = true
-	registered = true
 [submodule "TruncatedNormal"]
 	path = TruncatedNormal
 	url = https://github.com/lbelzile/truncatednormal
-	shallow = true
-	registered = true
 [submodule "VaRES"]
 	path = VaRES
 	url = https://github.com/lbelzile/vares
-	shallow = true
-	registered = true
