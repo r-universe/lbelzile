@@ -5,6 +5,12 @@
 [submodule "BMAmevt"]
 	path = BMAmevt
 	url = https://github.com/lbelzile/bmamevt
+[submodule "TruncatedNormal"]
+	path = TruncatedNormal
+	url = https://github.com/lbelzile/truncatednormal
+[submodule "VaRES"]
+	path = VaRES
+	url = https://github.com/lbelzile/vares
 [submodule "evt0"]
 	path = evt0
 	url = https://github.com/lbelzile/evt0
@@ -20,9 +26,3 @@
 [submodule "mev"]
 	path = mev
 	url = https://github.com/lbelzile/mev
-[submodule "TruncatedNormal"]
-	path = TruncatedNormal
-	url = https://github.com/lbelzile/truncatednormal
-[submodule "VaRES"]
-	path = VaRES
-	url = https://github.com/lbelzile/vares
