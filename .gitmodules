@@ -23,6 +23,9 @@
 [submodule "lcopula"]
 	path = lcopula
 	url = https://github.com/lbelzile/lcopula
+[submodule "longevity"]
+	path = longevity
+	url = https://github.com/lbelzile/longevity
 [submodule "mev"]
 	path = mev
 	url = https://github.com/lbelzile/mev
