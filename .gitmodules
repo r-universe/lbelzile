@@ -20,6 +20,9 @@
 [submodule "jointPm"]
 	path = jointPm
 	url = https://github.com/lbelzile/jointpm
+[submodule "ksm"]
+	path = ksm
+	url = https://github.com/lbelzile/ksm
 [submodule "lcopula"]
 	path = lcopula
 	url = https://github.com/lbelzile/lcopula
